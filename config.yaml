@@ -1,0 +1,7 @@
+metrics:
+  - name: cmd_pos_altitude
+    url: http://host.docker.internal:9280/mandala
+    path: cmd.pos.altitude
+  - name: est_att_roll
+    url: http://host.docker.internal:9280/mandala
+    path: est.att.roll
